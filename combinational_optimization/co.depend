@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1579805320 source:c:\users\hp\desktop\ok5\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<stack>
+	<cmath>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<chrono>
+
